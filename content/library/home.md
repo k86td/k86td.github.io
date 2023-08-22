@@ -1,0 +1,1 @@
+C'est mon jardin digitale! J'étudie actuellement pour la certification CKA, mes notes se retrouves dans [[0. Home]].
