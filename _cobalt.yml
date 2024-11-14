@@ -1,0 +1,9 @@
+
+ignore:
+  - "*.nix"
+  - "*.lock"
+source: "."
+template_extensions:
+  - md
+  - liquid
+
